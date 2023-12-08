@@ -3,6 +3,9 @@
     "version": "0.0.3",
     "private": true,
     "license": "MIT",
+    "engines": {
+        "node": "18.x"
+    },
     "scripts": {
         "keystone:dev": "keystone dev",
         "keystone:build": "keystone build",
